@@ -5,5 +5,6 @@
         <page name='TrieNode'/>
         <page name='BinaryTree'/>
         <page name='LinkedListDataStructure'/>
+        <page name='QueueDataStructure'/>
     </pages>
 </playground>
