@@ -6,5 +6,7 @@
         <page name='BinaryTree'/>
         <page name='LinkedListDataStructure'/>
         <page name='QueueDataStructure'/>
+        <page name='StackDataStructure'/>
+        <page name='GraphsWithAdjacencyList'/>
     </pages>
 </playground>

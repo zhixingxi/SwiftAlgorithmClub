@@ -1,6 +1,5 @@
 //: [Previous](@previous)
-//: 队列 数据结构
-
+//: 队列 数据结构, 先进先出
 public struct Queue<T> {
     private var list = LinkedList<T>()
     public func enqueue(_ element: T) {

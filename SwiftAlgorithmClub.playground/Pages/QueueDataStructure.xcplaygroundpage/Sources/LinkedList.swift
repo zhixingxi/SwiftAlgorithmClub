@@ -2,13 +2,13 @@ import Foundation
 
 //: 链表数据结构
 public class Node<T> {
-    var value: T
+    public var value: T
     
-    var next: Node<T>?
+    public var next: Node<T>?
     
     weak var previous: Node<T>?
     
-    init(value: T) {
+    public init(value: T) {
         self.value = value
     }
 }
@@ -18,6 +18,10 @@ public class LinkedList<T> {
     private var head: Node<T>?
     
     private var tail: Node<T>?
+    
+    public init() {
+        
+    }
     
     public var isEmpty: Bool {
         return head == nil
