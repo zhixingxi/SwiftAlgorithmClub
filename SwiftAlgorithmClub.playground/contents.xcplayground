@@ -4,5 +4,6 @@
         <page name='TreeDataStructure'/>
         <page name='TrieNode'/>
         <page name='BinaryTree'/>
+        <page name='LinkedListDataStructure'/>
     </pages>
 </playground>
