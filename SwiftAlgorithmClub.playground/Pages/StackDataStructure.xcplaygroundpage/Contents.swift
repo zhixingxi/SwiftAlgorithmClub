@@ -1,6 +1,6 @@
 //: [Previous](@previous)
 
-//: 栈 数据结构
+//: 栈 数据结构, 后进先出
 
 struct Stack<Element> {
     private var array: [Element] = []
