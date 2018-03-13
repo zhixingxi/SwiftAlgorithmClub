@@ -4,7 +4,7 @@
 
 
 let array = [7, 2, 6, 3, 9, 17, 89, 20, 30]
-let arrayB = ["a", "d", "b", "z", "t", "g", "c"]
+let arrayB = ["ass", "dfhss", "basasdfdf", "azsdfsdfas", "sfsdft", "gdfas", "fsadfac"]
 func mergeSort<T: Comparable>(_ array: [T]) -> [T] {
     
     guard array.count > 1 else {
