@@ -8,5 +8,6 @@
         <page name='QueueDataStructure'/>
         <page name='StackDataStructure'/>
         <page name='GraphsWithAdjacencyList'/>
+        <page name='MergeSort'/>
     </pages>
 </playground>
