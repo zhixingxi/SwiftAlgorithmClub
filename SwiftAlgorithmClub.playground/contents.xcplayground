@@ -9,5 +9,7 @@
         <page name='StackDataStructure'/>
         <page name='GraphsWithAdjacencyList'/>
         <page name='MergeSort'/>
+        <page name='BreadthFirstSearch'/>
+        <page name='DepthFirstSearch'/>
     </pages>
 </playground>
