@@ -11,5 +11,6 @@
         <page name='MergeSort'/>
         <page name='BreadthFirstSearch'/>
         <page name='DepthFirstSearch'/>
+        <page name='Heap'/>
     </pages>
 </playground>
